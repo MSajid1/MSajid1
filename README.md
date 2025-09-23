@@ -27,5 +27,7 @@ As a reasearch Physicist Student in MPHIL applied physics, I have completed my M
 
  ## Connect with me🤝:
 <div align="center">
-    <a href="https://www.linkedin.com/in/muhammad-sajid-ghafoor-75180928/" target="_blank"><img src="https://img.shields.io/badge/-muhammad-sajid-ghafoor-75180928?style=flat&logo=Linkedin&logoColor=white"/></a>
+  
+<a href="https://www.linkedin.com/in/muhammad-sajid-ghafoor-75180928/" target="_blank"><img src="https://img.shields.io/badge/-muhammad-sajid-ghafoor-75180928?style=flat&logo=Linkedin&logoColor=white"/></a>
+
     <a target="_blank" href="mailto:emsajid6@gmail.com"><img src="https://img.shields.io/badge/-emsajid6@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
