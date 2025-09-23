@@ -7,9 +7,6 @@
 hi i am currently teaching students as a teacher 
 # Skills Set
 
-    <img height="20" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png">
-
-    <a href="https://github.com/MSajid1
 /">
 <p align="left">
   <img src="https://skills.syvixor.com/api/icons?i=adobeillustrator,canva,capcut,chatgpt,chromium,apple,atom,perplexity,filmora,gmail,googlechrome,googledrive">
