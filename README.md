@@ -31,6 +31,6 @@ As a reasearch Physicist Student in MPHIL applied physics, I have completed my M
   <a target="_blank" href="mailto:emsajid6@gmail.com"><img src="https://img.shields.io/badge/-emsajid6@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
-## My Achievements🏆:
+</a>Achievements & Community Contributions</h1>
 
 - 🌟 **Notable Achievements** (Key stats & recognitions across platforms) 
