@@ -56,3 +56,9 @@ As a reasearch Physicist Student in MPHIL applied physics, I have completed my M
 <br>
 
 #
+
+<!-- <div align="center">
+  <a href="https://github.com/MSajid1">
+    <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
+  </a>
+ </div> -->
